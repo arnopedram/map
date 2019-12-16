@@ -1,0 +1,111 @@
+body {background-color: pink}
+
+h1 {text-align: center;}
+
+
+#contact {
+	text-align: right;
+	float: right;
+	display: inline;
+}
+
+#tagline {
+	text-align: center;
+	font-style: italic;}
+
+.illus {height: auto;
+		width: 100%;
+		border-radius: 10px}
+
+/*this is icon style*/
+
+#hands {margin: 0 auto;
+	width: 85%;
+    height: auto;
+    border-radius: 20px;
+    margin-top: 3%
+	}
+
+#italics {font-style: italic;
+	text-align: center;
+	font-size: 20px}
+
+.iconplustext div {
+	display: inline-block;}
+
+.iconplustext {
+	margin-left: 50px;
+	margin-right: 50px;
+	width: 100%;
+    height: auto;}
+
+.divicon {
+	width: 30%;
+	text-align: center;}
+	.icon {
+		vertical-align: middle; /*this doesnt work*/
+		height: auto;
+		width: 80%;
+	}
+	
+.divtext {
+	width: 60%;
+	vertical-align: top;}
+
+#backgroundass1 {
+	background: #00846e;
+	margin-left: 50px;
+	margin-right: 50px;
+	border-radius: 30px;
+}
+
+/*this is the end of icon style*/
+
+.assignment {
+	background-color: #00846e;
+	margin-bottom: 100px;
+	text-align: center;
+	margin-right: 50px;
+	margin-left: 100px;
+	border-radius: 20px;
+	border: solid white 5px;
+	;}
+.container div {width: 35%;
+	display: inline-block; 
+}
+
+#three { 
+	width: 30%
+	margin: 0 auto;
+	margin-right: 113px}
+
+.biography {
+	display: inline-block;}
+#photo {float: right;}
+#writing {
+	width: 60%;
+	float: left;}
+
+/*this is chart assignment */
+
+
+.chartcontainer div {
+	display: inline-block; 
+}
+
+#chartchart { 
+	width: 75%;
+	border: solid white 5px;
+	border-bottom: 0px;
+	background-color: white;
+	margin-left: 2%;
+	border-radius: 5px;
+
+} 
+#charttext {
+	width: 20%;
+	vertical-align: 100px;
+	background-color: white;
+	border-radius: 5px;
+	border: double white 10px;
+}
